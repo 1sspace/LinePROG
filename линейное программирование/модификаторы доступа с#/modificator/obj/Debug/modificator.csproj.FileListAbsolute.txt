@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\линейное программирование\модификаторы доступа с#\modificator\bin\Debug\modificator.exe.config
+C:\Users\User\Desktop\линейное программирование\модификаторы доступа с#\modificator\bin\Debug\modificator.exe
+C:\Users\User\Desktop\линейное программирование\модификаторы доступа с#\modificator\bin\Debug\modificator.pdb
+C:\Users\User\Desktop\линейное программирование\модификаторы доступа с#\modificator\obj\Debug\modificator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\линейное программирование\модификаторы доступа с#\modificator\obj\Debug\modificator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\линейное программирование\модификаторы доступа с#\modificator\obj\Debug\modificator.exe
+C:\Users\User\Desktop\линейное программирование\модификаторы доступа с#\modificator\obj\Debug\modificator.pdb

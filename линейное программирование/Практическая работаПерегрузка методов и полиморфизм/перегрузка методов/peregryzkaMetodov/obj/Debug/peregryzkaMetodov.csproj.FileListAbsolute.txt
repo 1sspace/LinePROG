@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Практическая работаПерегрузка методов и полиморфизм\peregryzkaMetodov\bin\Debug\peregryzkaMetodov.exe.config
+C:\Users\User\Desktop\Практическая работаПерегрузка методов и полиморфизм\peregryzkaMetodov\bin\Debug\peregryzkaMetodov.exe
+C:\Users\User\Desktop\Практическая работаПерегрузка методов и полиморфизм\peregryzkaMetodov\bin\Debug\peregryzkaMetodov.pdb
+C:\Users\User\Desktop\Практическая работаПерегрузка методов и полиморфизм\peregryzkaMetodov\obj\Debug\peregryzkaMetodov.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Практическая работаПерегрузка методов и полиморфизм\peregryzkaMetodov\obj\Debug\peregryzkaMetodov.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Практическая работаПерегрузка методов и полиморфизм\peregryzkaMetodov\obj\Debug\peregryzkaMetodov.exe
+C:\Users\User\Desktop\Практическая работаПерегрузка методов и полиморфизм\peregryzkaMetodov\obj\Debug\peregryzkaMetodov.pdb
